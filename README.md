@@ -76,4 +76,9 @@ The server side of the project is built with Node.js and Express.
 - [Node.js](https://nodejs.org/) - JavaScript runtime built on Chrome's V8 JavaScript engine
 - [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 
- 
+### Database [POSTGRESQL]
+  user: "postgres",
+  password: "root1234",
+  host: "localhost",
+  port: 5432,
+  database: "finance_jwt",
